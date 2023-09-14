@@ -2,5 +2,5 @@ This is the First Line.
 This is the Second Line.
 This is the Third Line.
 
-This is first line in feature 1.
-This is Second line in feature 1.
+This is Feature 2 line 1.
+This is Feature 2 line 2.
