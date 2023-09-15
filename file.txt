@@ -6,3 +6,4 @@ This is Feature 2 line 1.
 This is Feature 2 line 2.
 
 This is line 1 in Feature 3.
+This line is also Feature 3.
